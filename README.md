@@ -1,2 +1,3 @@
-# repository
-Repository containing all my project files
+# Techno-Futurist Idealism
+
+A journey through though

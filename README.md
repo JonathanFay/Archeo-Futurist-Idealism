@@ -1,2 +1,2 @@
 # repository
-repository containing all my project files
+Repository containing all my project files
